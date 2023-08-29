@@ -1,0 +1,11 @@
+package.json
+.babelrc
+.env
+.eslintrc
+.prettierrc
+README.md
+logs/
+node_modules/
+package-lock.json
+package.json
+tests/
